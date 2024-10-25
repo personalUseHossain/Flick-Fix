@@ -1,5 +1,5 @@
-# [FlickFix]([https://your-live-demo-link.com](https://flickfix.vercel.app))
-![Home Page]([https://your-image-url.com](https://res.cloudinary.com/dndev4rnw/image/upload/v1729863397/fm0zjmqykah9nrk9ul64.png))
+# [FlickFix]([https://flickfix.vercel.app])
+![Home Page](https://res.cloudinary.com/dndev4rnw/image/upload/v1729863397/fm0zjmqykah9nrk9ul64.png)
 
 Welcome to the showcase of FlickFix, a dynamic movie information platform where users can explore trending movies and series, access detailed information, and manage their watchlists and favorites.
 
